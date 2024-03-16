@@ -25,3 +25,4 @@ class beheshti(daneshjoo):
 dan1=beheshti("hamid","baghery",20,1000)
 dan2=ferdosi("ali","rezay",20,"math")
 print(dan1.maxvahed,dan2.maxvahed)
+#seghergaerga
