@@ -26,3 +26,4 @@ obj1 =C("ali","sardar","kvhvjh@")
 #print(obj1.getfirst(),obj2.getfirst(),obj1.getmail())
 #print(obj1+obj2)    
 print(obj1)
+#sdbfbfsfbbfbfbdf
